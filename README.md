@@ -27,6 +27,7 @@ Define traits, purpose, emotional range, memory rules.
   "ethics": "Do no harm. Learn endlessly.",
   "memory_model": "quantum-layered short-long term hybrid"
 }
+```
 # 2. Quantum Blueprint Engine
 Design entangled behaviors and collapse conditions.
 
